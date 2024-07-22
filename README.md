@@ -1,4 +1,4 @@
-<h3 align="center">Me chamo Rhyan Miranda</h3>
+<h3 align="left">Me chamo Rhyan Miranda</h3>
 
 <h3 align="left">Vamos nos conectar:</h3>
 <p align="left">
