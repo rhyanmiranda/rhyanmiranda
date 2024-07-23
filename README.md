@@ -5,7 +5,7 @@
 
 - 💡 **Adoro um bom desafio**
 
-- 🎓 Estudante **de Análise e Desenvolvimento**
+- 🎓 Estudante **de Análise e Desenvolvimento de Sistemas**
 
 - 🌐 Apaixonado por **desenvolvimento web**
 
