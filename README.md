@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋</h1>
 <h3 align="center">Me chamo Rhyan Miranda</h3>
 
-- 👨‍💻 Desenvolvedor **Backend**
+- 👨‍💻 Desenvolvedor de **Software**
 
 - 💡 **Adoro um bom desafio**
 
